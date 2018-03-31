@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Geography Trivia?</string>
+    <string name="Q1">1. Which of the following is/are continent/s?</string>
+    <string name="Q1a">Africa</string>
+    <string name="Q1b">New zealand</string>
+    <string name="Q1c">Europe</string>
+    <string name="Q1d">Antartica</string>
+    <string name="Q2">2. Meditranean is one of the Earth\'s ocean which is found between north Africa and Europe ( True/False)</string>
+    <string name="Q3">3. Beverly Hills is suburb of which U.S city?</string>
+    <string name="Q4">4. What is the lasrgest lake in Africa?</string>
+    <string name="title_activity_log__in">Log_In</string>
+</resources>
