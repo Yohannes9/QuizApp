@@ -24,7 +24,7 @@ public class Log_In extends AppCompatActivity {
     public void startQuiz(View v){
 
         EditText text = (EditText) findViewById(R.id.namePlayer);
-        playerName = text.toString();
+        playerName = text.getText().toString();
         Intent homepage = new Intent(this, MainActivity.class);
         homepage.putExtra("player",playerName);
         startActivity(homepage);
