@@ -25,4 +25,5 @@
         android:layout_below="@id/namePlayer"
         android:text="Start"
         android:onClick="startQuiz"/>
+
     </RelativeLayout>
